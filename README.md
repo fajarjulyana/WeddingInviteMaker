@@ -37,8 +37,8 @@ Aplikasi web untuk membuat **undangan pernikahan digital** yang indah dan intera
 
 ### 1️⃣ **Kloning Repository**
 ```sh
-git clone <repo-url>
-cd wedding-invitation-generator
+git clone https://github.com/fajarjulyana/WeddingInviteMaker.git
+cd WeddingInviteMaker
 ```
 
 ### 2️⃣ **Instal Dependensi**
